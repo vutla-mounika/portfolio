@@ -1,11 +1,7 @@
 // Typing Effect
 
 const text = [
-    "Python Developer",
-    "Cybersecurity Enthusiast",
-    "IAM & IGA Learner",
-    "Cloud Computing Student",
-    "Web Developer"
+    "Cybersecurity Enthusiast"
 ];
 
 let count = 0;
